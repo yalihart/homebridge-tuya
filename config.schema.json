@@ -67,6 +67,12 @@
                     ]
                   },
                   {
+                    "title": "Tadiran Mini Air Conditioner",
+                    "enum": [
+                      "TadiranMiniAC"
+                    ]
+                  },
+                  {
                     "title": "Heat Convector",
                     "enum": [
                       "Convector"
